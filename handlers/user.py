@@ -1,4 +1,4 @@
-
+from bot import bot
 import asyncio
 import re
 import random
